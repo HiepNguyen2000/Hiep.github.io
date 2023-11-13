@@ -18,5 +18,4 @@ This repository contains the code for my personal [porfolio website](https://tun
 
 - HTML
 - CSS
-- SCSS
 - JavaScript
